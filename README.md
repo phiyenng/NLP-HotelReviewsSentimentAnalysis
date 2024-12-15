@@ -1,11 +1,10 @@
 # NLP-HotelReviewsSentimentAnalysis
 Final Natural Language Processing project on Hotel Reviews Sentiment Analysis
 ---
-# Phân tích quan điểm đánh giá chất lượng dịch vụ khách sạn dựa trên nền tảng TripAdvisor 
-Sentiment Analysis on Vietnamese hotel reviews using machine learning and deep learning models.  
-
+# Phân tích quan điểm đánh giá chất lượng dịch vụ khách sạn dựa trên nền tảng TripAdvisor  
+------------------------  
 ## What is this project?  
-This is a final project for the Natural Language Processing (NLP) course, focusing on sentiment analysis of Vietnamese hotel reviews on TripAdvisor. Our project involves building and comparing several models to classify reviews as positive, neutral, or negative.  
+This is a final project for the Natural Language Processing (NLP) course, focusing on sentiment analysis of Vietnamese hotel reviews on TripAdvisor. Our project involves building and comparing machine learning and deep learning models to classify reviews as positive, neutral, or negative.  
 
 ------------------------  
 
