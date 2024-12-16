@@ -12,9 +12,44 @@ This is a final project for the Natural Language Processing (NLP) course, focusi
 - **Data Origin**: The dataset was sourced from NIAID Data Ecosystem - [TripAdvisor Vietnam Hotel Reviews](https://data.niaid.nih.gov/resources?id=zenodo_7967493) by Zenodo  
 - **Files**:  
    - `Reviews.csv`: Raw hotel reviews data.  
-   - `TuDon.csv`
+   - `TuDon.txt`
    - `vietnamese-stopwords.txt`: Vietnamese Stopwords. 
+Here’s an updated README section for your project:
 
+---
+
+## Dependencies
+
+Ensure the following libraries are installed before running the program:
+
+### Data Processing Libraries:
+```bash
+pip install pandas numpy
+```
+
+### Text Processing Libraries:
+```bash
+pip install nltk pyvi scikit-learn
+```
+- **NLTK**: Make sure to download required NLTK data with the following:
+  ```python
+  import nltk
+  nltk.download('punkt')
+  ```
+
+### Machine Learning and Visualization Libraries:
+```bash
+pip install matplotlib seaborn wordcloud
+```
+
+### TensorFlow/Keras for Deep Learning:
+```bash
+pip install tensorflow
+```
+
+---
+
+Run the above commands in your terminal or environment to install missing libraries.
 ------------------------  
 
 ## Models Used  
@@ -25,7 +60,7 @@ We implemented and compared the following models:
    - Support Vector Machine (SVM)  
 
 2. **Deep Learning Model**:  
-   - PhoBERT (Pre-trained BERT model for Vietnamese)  
+   - Feedforward Neural Network (FNN)
 
 ------------------------  
 
