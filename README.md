@@ -13,9 +13,8 @@ This is a final project for the Natural Language Processing (NLP) course, focusi
 - **Files**:  
    - `Reviews.csv`: Raw hotel reviews data.  
    - `TuDon.txt`
-   - `vietnamese-stopwords.txt`: Vietnamese Stopwords. 
-Here’s an updated README section for your project:
-
+   - `vietnamese-stopwords.txt`: Vietnamese Stopwords.
+  
 ---
 
 ## Dependencies
@@ -47,9 +46,6 @@ pip install matplotlib seaborn wordcloud
 pip install tensorflow
 ```
 
----
-
-Run the above commands in your terminal or environment to install missing libraries.
 ------------------------  
 
 ## Models Used  
